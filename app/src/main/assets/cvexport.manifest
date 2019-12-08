@@ -1,0 +1,12 @@
+{
+  "DomainType": "Classification",
+  "Platform": "TensorFlow",
+  "Flavor": "TensorFlowLite",
+  "ExporterVersion": "2.0",
+  "ExportedDate": "2019-12-07T22:38:36.4499883Z",
+  "IterationId": "3fd721a1-48bf-4867-95f5-4b468b18ed7e",
+  "ModelFileName": "graph.lite",
+  "LabelFileName": "labels.txt",
+  "ModelFileSHA1": "3b574af2cec0e4382236962d680e55127bd7c2e1",
+  "SchemaVersion": "1.0"
+}
